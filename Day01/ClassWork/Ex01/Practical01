@@ -1,0 +1,23 @@
+Date:- 12.03.2025
+
+Practical No:- 01
+
+Problem Specification :- Print statements in java
+
+Implementation:- 
+//class<class_name>
+class MyFirstJavaProgram{
+	public static void main(String[] args)
+	{
+		System.out.println("My First Program In Java");
+		System.out.println("Hello Java Developers!!!");
+	}// end of the main
+}//end of the class
+
+Output:-
+My First Program In Java
+Hello Java Developers!!!
+
+Conclusion:- Using System.out.println() we can print multiple lines that printed statements may placed into double quotation mark.  
+
+
