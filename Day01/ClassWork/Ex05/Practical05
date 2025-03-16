@@ -1,0 +1,23 @@
+Date:- 12.03.2025
+
+Practical No:- 05
+
+Problem Specification:- Print the student's details using \n newline character in java to display on a new line
+
+Implementation:-
+lass StudentDetails{
+	public static void main(String arg[])
+	{
+		System.out.println("First Name: Karishana \nLast Name: Pararasasingam \nAddress: Kopay Jaffna");
+	}
+}
+
+Output:-
+First Name: Karishana
+Last Name: Pararasasingam
+Address: Kopay Jaffna
+
+Conclusion:- \n new line character allow us to format the output by printing on a separate line
+ 
+
+ 
