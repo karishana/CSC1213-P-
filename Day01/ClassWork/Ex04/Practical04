@@ -1,0 +1,37 @@
+Date:- 12.03.2025
+
+Practical No:- 04
+
+Problem Specification:- Print some student's details on a new line for clarity
+
+Implementation:- 
+class StuDetails{
+	public static void main(String args[])
+	{
+		
+	System.out.println("Name: Pararasasingam Karishana");
+	System.out.println("Registration Number:2022/ASP/59");
+	System.out.println("Degree Program: BSC.Applied Mathematic And Computing");
+	System.out.println();
+	
+	String Name="Pararasasingam Karishana";
+	String RegNo="2022/ASP/59";
+	String Degree="BSC.Applied Mathematic And Computing";
+	
+	System.out.println("Full Name: "+Name);
+	System.out.println("Registrations Number: "+RegNo);
+	System.out.println("Degree program: "+Degree);
+	}
+}
+
+Output:-
+Name: Pararasasingam Karishana
+Registration Number: 2022/ASP/59
+Degree Program: BSc. Applied Mathematic And Computing
+
+Full Name: Pararasasingam Karishana
+Registration Number: 2022/ASP/59
+Degree Program: BSc. Applied Mathematic And Computing
+
+Conclusion:- By using System.out.println(), we can efficiently print students details display on separate lines.
+
